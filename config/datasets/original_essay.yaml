@@ -1,0 +1,5 @@
+name: original_essay_corpus
+path:
+  train_dataset_name: 'datasets\original\essay_train.txt'
+  test_dataset_name: 'datasets\original\essay_test.txt'
+  val_dataset_name: 'datasets\original\essay_dev.txt'

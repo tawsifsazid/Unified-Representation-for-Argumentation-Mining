@@ -1,0 +1,6 @@
+name: augmented_paragraph_corpus
+path:
+  train_dataset_name_x: 'datasets\augmented\augment_paragraph_x.txt'
+  train_dataset_name_y: 'datasets\augmented\augment_paragraph_y.txt'
+  test_dataset_name: 'datasets\original\paragraph_test.txt'
+  val_dataset_name: 'datasets\original\paragraph_dev.txt'

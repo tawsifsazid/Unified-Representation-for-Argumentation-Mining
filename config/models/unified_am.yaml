@@ -1,0 +1,12 @@
+unified_am:
+  _target_: models.unified_am.UnifiedAM_Essay  # options: UnifiedAM_Paragraph, UnifiedAM_Essay 
+  ntoken: None
+  ninp: None
+  label: 33
+  dropout: None
+
+pretrained: True
+path: 
+  weight_file_path : 'weight\unified_am_original_essay.pth'
+  # weight_file_path options: 'weight\unified_am_original_paragraph.pth', 'weight\unified_am_original_essay.pth', 'weight\unified_am_augmented_paragraph.pth'
+  

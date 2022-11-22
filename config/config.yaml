@@ -1,0 +1,15 @@
+defaults:   
+  - datasets: original_essay # options: original_paragraph, augment_paragraph, original_essay
+  - models: unified_am # options: unified_am 
+  - _self_ 
+  - override hydra/hydra_logging: disabled  
+  - override hydra/job_logging: disabled  
+  
+decoupled: False
+train: False
+evaluate: True
+
+hydra:  
+  output_subdir: null  
+  run:  
+    dir: .

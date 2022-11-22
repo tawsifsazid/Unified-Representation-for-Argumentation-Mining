@@ -1,0 +1,5 @@
+name: original_paragraph_corpus
+path:
+  train_dataset_name: 'datasets\original\paragraph_train.txt'
+  test_dataset_name: 'datasets\original\paragraph_test.txt'
+  val_dataset_name: 'datasets\original\paragraph_dev.txt'
