@@ -30,7 +30,7 @@
     
     2. Create an environment (Python 3.9.7) and run: `pip install -r requirements.txt`
     
-    3. Install PyTorch: `conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia` or from the [official website]!(https://pytorch.org/get-started/locally/)
+    3. Install PyTorch: `conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia` or from the [official website](https://pytorch.org/get-started/locally/)
     
     4. The weight files can be downloaded from the links. Folder name 'weight' should contain the downloaded files before running the code.
 
