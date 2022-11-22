@@ -25,11 +25,14 @@
     * Decoupled_AM model will be available soon.
 
 * To reproduce the results from the papers:
-
-    1. Create an environment (Python 3.9.7) and run: `pip install -r requirements.txt`
     
+    1. Clone the repo: `git clone https://github.com/tawsifsazid/Unified-Representation-for-Argumentation-Mining.git`
     
-    2. The weight files can be downloaded from the links. Folder name 'weight' should contain the downloaded files before running the code.
+    2. Create an environment (Python 3.9.7) and run: `pip install -r requirements.txt`
+    
+    3. Install PyTorch: `conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia` or from the [official website]!(https://pytorch.org/get-started/locally/)
+    
+    4. The weight files can be downloaded from the links. Folder name 'weight' should contain the downloaded files before running the code.
 
         * [unified_am model weight file for augmented_paragraph corpus](https://mega.nz/file/EDsxEZzI#MMhMdCKZWgtKYOOf-MsSYkuzyyrSWxzEye4ekvKDRWA) 
 
@@ -38,9 +41,9 @@
 
         * [unified_am model weight file for original_paragraph corpus](https://mega.nz/file/BHUkmQhL#HvaqVf5Qs7gLaYm7RS2IY8TUhAOcZa4V8j4q00LUhww)
 
-    3. Run `python main.py` to reproduce the results
+    5. Run `python main.py` to reproduce the results
     
-    4. Default config is set for original essay level corpus. 
+    6. Default config is set for original essay level corpus. 
 
 * Cite:
 
