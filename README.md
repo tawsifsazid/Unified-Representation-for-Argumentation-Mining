@@ -23,6 +23,8 @@
     * New augmented corpus are available in the datasets folder.
 
     * Decoupled_AM model will be available soon.
+    
+    * The datasets (path: datasets/original) that we have used for detecting argument structures are taken from [https://github.com/UKPLab/acl2017-neural_end2end_am/tree/master/data/conll](https://github.com/UKPLab/acl2017-neural_end2end_am/tree/master/data/conll)
 
 * #### To reproduce the results from the papers:
     
