@@ -73,7 +73,7 @@ class UnifiedAM_Paragraph(nn.Module): # for paragraph level, only difference wit
         output = output.view(-1, 1024)
         output = self.linear_3(self.dropout(output))
         
-        attn_output_weights = 0
+        #attn_output_weights = 0
         return output, hidden_final, attn_output_weights
 
 
@@ -143,5 +143,5 @@ class UnifiedAM_Essay(nn.Module):
         output = output.view(-1, 1024)
         output = self.linear_3(self.dropout(output))
         
-        attn_output_weights = 0
+        #attn_output_weights = 0
         return output, hidden_final, attn_output_weights
