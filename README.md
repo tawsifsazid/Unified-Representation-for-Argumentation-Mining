@@ -1,5 +1,5 @@
 * #### [Argumentation Mining](https://en.wikipedia.org/wiki/Argument_mining)
-    ![argument.gif](figures\argument.gif)
+    ![argument.gif](https://github.com/tawsifsazid/Unified-Representation-for-Argumentation-Mining/blob/main/figures/argument.gif)
 
 * #### Paper links
    * ##### [A Unified Representation and a Decoupled Deep Learning Architecture for Argumentation Mining of Students' Persuasive Essays (AM_2022_coling2022)](https://aclanthology.org/2022.argmining-1.6/)
@@ -12,12 +12,12 @@
 
 * #### Unified Representation for Argumentation Mining
 
-    ![unified_representation.png](figures\unified_representation.png)
+    ![unified_representation.png](https://github.com/tawsifsazid/Unified-Representation-for-Argumentation-Mining/blob/main/figures/unified_representation.png)
 
 
 * #### Model_Architecture (Both Unfied_AM and Decoupled_AM (Unfied_AM + 2nd model to detect distance))
 
-    ![unified_am.png](figures\decoupled_am.png)
+    ![unified_am.png](https://github.com/tawsifsazid/Unified-Representation-for-Argumentation-Mining/blob/main/figures/decoupled_am.png)
 
 
 
